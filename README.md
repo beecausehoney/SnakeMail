@@ -27,6 +27,7 @@ Before installing, make sure you have these dependencies installed on your syste
 v1.0 created the project
 v1.1 added image adding support but no way to see images sent for privacy
 v1.2 allowed a easier way to read emails
+v1.3 simple image viewing
 
 
 ## How to install
