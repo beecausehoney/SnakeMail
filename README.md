@@ -23,6 +23,11 @@ Before installing, make sure you have these dependencies installed on your syste
     
 -   **Research Use**: This tool was developed for documenting online group operations and secure communication.
 
+## Updates
+v1.0 created the project
+v1.1 added image adding support but no way to see images sent for privacy
+v1.2 allowed a easier way to read emails
+
 
 ## How to install
 
@@ -119,4 +124,5 @@ mv snakemail.py $PREFIX/bin/snakemail
 ## Chrome OS
 
  enable the **Linux (Beta)** feature in settings. Once enabled follow The Linux commands above **Linux/Xubuntu** instructions exactly.
+
 
